@@ -15,9 +15,9 @@ Program calculates quadratic equation for Delta:
 
 
 def Quadrature_equation(a, b, c):
+    
     delta = (b ** 2) - (4 * a * c)
     print('Delta = ', delta)
-
     if delta > 0:
         if a == 0:
             x1 = round((-b - (delta ** 0.5)), 3)
