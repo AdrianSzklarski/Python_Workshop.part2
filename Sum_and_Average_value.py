@@ -5,9 +5,10 @@ Numbers program: the user specifies the length of an array,
 then fills it with numbers, and the program returns their
 sum and average value
 
-    Returns:
-    Parameters:
-    Error:
+    Returns:      array, sum & average of element's array
+    Parameters:   number of elements in the array
+                  the values of the elements in the array
+    Error:        ValueError or NameError
 """
 
 
