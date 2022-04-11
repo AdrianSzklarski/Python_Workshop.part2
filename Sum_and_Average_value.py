@@ -13,13 +13,20 @@ sum and average value
 
 
 def numbers(n):
+
     var = 0
     numbers_list = []
     while var < n:
         print(var, end=": ")
-        my_no = (int(input('Specify the value of an array element: ')))
-        a = numbers_list.append(my_no)
+        while True:
+            try:
+                my_no = (int(input('Specify the value of an array element: ')))
+                break
+            except Exception:
+                print("You should have given either an int")
+        numbers_list.append(my_no)
         var += 1
+
     if sum(numbers_list) > (sum(numbers_list) / n):
         print(f'The sum is greater than the average!')
     else:
