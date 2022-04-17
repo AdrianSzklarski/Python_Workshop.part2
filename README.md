@@ -1,11 +1,10 @@
-<h1 align="center"><strong>Validate_of_PESEL</strong></h1><br>
-<h2 align="center"><strong>Table of contents </strong></h2>
-
-
+<h1 align="center"><strong>Validate_of_PESEL</strong></h1>
+<h2 align="center">Table of contents</h2>
 <h2 align="left">Purpose of the task:</h2>
 <h3 style="text-align: justify">As regards PESEL data, centrally available data has been migrated to the new system. In addition, copies of local databases were used to improve the quality of the central evidence register</h3>
 
 ## Technologies 
+Python 3.9, PyCharm, Ubuntu;
 
 ## Use of the programme
 Validate_of_PESEL.py: https://pl.wikipedia.org/wiki/PESEL 
