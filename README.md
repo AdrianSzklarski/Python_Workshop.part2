@@ -5,8 +5,9 @@
 <li><p>Sum and Average value.</p>
 </ol>
 
-<h2 align="center">Purpose of the task:</h2>
+<h2 align="center">Purpose of the task</h2>
 <p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in . The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
+
 
 <h1 align="center"><strong>Validate_of_PESEL</strong></h1>
 
@@ -24,25 +25,39 @@ Program that checks the correctness of the PESEL number.
 ## Author:
 Programme code written by A.Szklarski 02.2022r.
 
-
 <h1 align="center">Quadrature_equation</h1>
-<h2 align="left">Purpose of the task:</h2>
 
-by A.Szklarski 12.2021r.; 
+## Technologies:
+<ul>
+<li><p>Python 3.9</p>
+<li><p>PyCharm</p>
+<li><p>Ubuntu</p>
+</ul>
+
+## Use of the programme:
+
+## Author:
+Programme code written by A.Szklarski 01.2022r.
+
 
 <h1 align="center">Sum and Average value</h1>
 
+## Technologies:
+<ul>
+<li><p>Python 3.9</p>
+<li><p>PyCharm</p>
+<li><p>Ubuntu</p>
+</ul>
+
+## Use of the programme:
+Numbers program: the user specifies the length of an array, then fills it with numbers, and the program returns their sum and average value
+
+## Author:
+Programme code written by A.Szklarski 12.2021r.
 
 
 
 
-
-
-
-
-<h2 align="left">Purpose of the task:</h2>
-
-Numbers program: the user specifies the length of an array, then fills it    with numbers, and the program returns their sum and average value, by A.Szklarski 12.2021r.;  
 
 
 
