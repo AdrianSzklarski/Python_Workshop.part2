@@ -7,7 +7,7 @@
 <ul>
 <li><p>Python 3.9</p>
 <li><p>PyCharm</p>
-<li><p>Ubuntu</p?
+<li><p>Ubuntu</p>
 
 ## Use of the programme
 Validate_of_PESEL.py: <a href="https://pl.wikipedia.org/wiki/PESEL">Information about programm</a> 
