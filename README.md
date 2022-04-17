@@ -1,8 +1,8 @@
 <h2 align="center">Table of contents</h2>
 <ol>
 <li><p><a href="#Task1">Validate_of_PESEL</a></p>   
-<li><p>Quadrature_equation,</p>
-<li><p>Sum and Average value.</p>
+<li><p><a href="#Task2">Quadrature_equation</a></p>     
+<li><p><a href="#Task3">Sum and Average value</a></p>  
 </ol>
 
 <h2 align="center">Purpose of the task</h2>
@@ -25,7 +25,7 @@ Program that checks the correctness of the PESEL number.</p>
 ## Author:
 Programme code written by A.Szklarski 02.2022r.
 
-<h1 align="center">**Quadrature_equation**</h1>
+<h1 align="center">**<a name="Task2">Quadrature_equation</a>**</h1>   
 
 ## Technologies:
 <ul>
@@ -45,7 +45,7 @@ where: a,b,c are some constants, with a 0 (which ensures that the quadratic func
 Programme code written by A.Szklarski 01.2022r.
 
 
-<h1 align="center">**Sum and Average value**</h1>
+<h1 align="center">**<a name="Task3">Sum and Average value</a>**</h1>  
 
 ## Technologies:
 <ul>
