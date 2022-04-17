@@ -39,7 +39,7 @@ Programme code written by A.Szklarski 02.2022r.
 
 f(x)=ax<sup>2</sup>+bx+c
 
-where: a,b,c are some constants, with a 0 (which ensures that the quadratic function does not degenerate into a linear function). A quadratic function is determined by some polynomial of the second degree, which is why it is sometimes called a quadratic triangle.</p>
+where: a,b,c are some constants, with a&#8800;0 (which ensures that the quadratic function does not degenerate into a linear function). A quadratic function is determined by some polynomial of the second degree, which is why it is sometimes called a quadratic triangle.</p>
 
 ## Author:
 Programme code written by A.Szklarski 01.2022r.
