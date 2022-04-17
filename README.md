@@ -9,7 +9,7 @@
 <p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in . The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
 
 
-<h1 align="center">**<a name="Task1">Validate_of_PESEL</a>**</h1><a href="#Up"><h4>Up</h4></a>    
+<h1 align="center">**<a name="Task1">Validate_of_PESEL</a>**&bnsp<a href="#Up">Up</a></h1>  
   
 ## Technologies:
 <ul>
