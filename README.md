@@ -1,6 +1,6 @@
 <h2 align="center">Table of contents</h2>
 <ol>
-<li><p>## <a id="Validate_of_PESEL"/></p>
+<li><p><a href="#Task1">Validate_of_PESEL</a></p>   
 <li><p>Quadrature_equation,</p>
 <li><p>Sum and Average value.</p>
 </ol>
@@ -9,8 +9,8 @@
 <p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in . The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
 
 
-<h1 align="center">**(#Validate_of_PESEL)**</h1>
-
+<h1 align="center">**<a name="Task1">Validate_of_PESEL</a>**</h1>    
+  
 ## Technologies:
 <ul>
 <li><p>Python 3.9</p>
