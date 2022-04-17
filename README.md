@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Validate_of_PESEL</strong></h1>
 <h2 align="left">Purpose of the task:</h2>
-<h3 text-align: "justify">As regards PESEL data, centrally available data has been migrated to the new system. In addition, copies of local databases were used to improve the quality of the central evidence register</h3>
+<h3 style="text-align: justify">As regards PESEL data, centrally available data has been migrated to the new system. In addition, copies of local databases were used to improve the quality of the central evidence register</h3>
 
 
 Validate_of_PESEL.py: https://pl.wikipedia.org/wiki/PESEL 
