@@ -1,8 +1,8 @@
 <h2 align="center">Table of contents</h2>
 <ol>
-<li><p>Validate_of_PESEL</p>
-<li><p>Quadrature_equation<</p>
-<li><p>Sum and Average value</p>
+<li><p>Validate_of_PESEL,</p>
+<li><p>Quadrature_equation,</p>
+<li><p>Sum and Average value.</p>
 </ol>
 
 
@@ -17,14 +17,12 @@
 <li><p>Ubuntu</p>
 </ul>
 
-## Use of the programme
-Validate_of_PESEL.py: <a href="https://pl.wikipedia.org/wiki/PESEL">Information about programm</a> 
-Program that checks the correctness of the PESEL number, by A.Szklarski 02.2022r.; 
+## Use of the programme:
+Validate_of_PESEL: <a href="https://pl.wikipedia.org/wiki/PESEL">Information about programm</a> 
+Program that checks the correctness of the PESEL number. 
 
-
-
-
-
+## Author:
+Programme code written by A.Szklarski 02.2022r.
 
 
 <h1 align="center">Quadrature_equation</h1>
