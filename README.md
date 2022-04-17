@@ -1,5 +1,12 @@
-<h1 align="center"><strong>Validate_of_PESEL</strong></h1>
 <h2 align="center">Table of contents</h2>
+<ol>
+<li><p>Validate_of_PESEL</p>
+<li><p>Quadrature_equation<</p>
+<li><p>Sum and Average value</p>
+</ol>
+
+
+<h1 align="center"><strong>Validate_of_PESEL</strong></h1>
 <h2 align="left">Purpose of the task:</h2>
 <p>As regards PESEL data, centrally available data has been migrated to the new system. In addition, copies of local databases were used to improve the quality of the central evidence register<p>
 
@@ -13,6 +20,12 @@
 ## Use of the programme
 Validate_of_PESEL.py: <a href="https://pl.wikipedia.org/wiki/PESEL">Information about programm</a> 
 Program that checks the correctness of the PESEL number, by A.Szklarski 02.2022r.; 
+
+
+
+
+
+
 
 <h1 align="center">Quadrature_equation</h1>
 <h2 align="left">Purpose of the task:</h2>
