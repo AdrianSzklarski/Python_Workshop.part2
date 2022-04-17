@@ -35,9 +35,9 @@ Programme code written by A.Szklarski 02.2022r.
 </ul>
 
 ## Use of the programme:
-<p>Quadratic function - a polynomial function of second degree, that is of the form:
+<p><p>Validate_of_PESEL: <a href="https://pl.wikipedia.org/wiki/Funkcja_kwadratowa">Quadratic function</a> - a polynomial function of second degree, that is of the form:
 
-f(x)=ax<sup>2+bx+c
+f(x)=ax<sup>2</sup>+bx+c
 
 where: a,b,c are some constants, with a 0 (which ensures that the quadratic function does not degenerate into a linear function). A quadratic function is determined by some polynomial of the second degree, which is why it is sometimes called a quadratic triangle.</p>
 
