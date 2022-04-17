@@ -9,7 +9,7 @@
 <p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in . The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
 
 
-<h1 align="center">**<a name="Task1">Validate_of_PESEL</a>**<a href="#Up"><h4>Back to top of page</h4></a></h1>    
+<h1 align="center">**<a name="Task1">Validate_of_PESEL</a>**</h1><a href="#Up"><h4>Up</h4></a>    
   
 ## Technologies:
 <ul>
@@ -25,7 +25,7 @@ Program that checks the correctness of the PESEL number.</p>
 ## Author:
 Programme code written by A.Szklarski 02.2022r.
 
-<h1 align="center">**<a name="Task2">Quadrature_equation</a>**<a href="#Up"><h4>Back to top of page</h4></a></h1>   
+<h1 align="center">**<a name="Task2">Quadrature_equation</a>**</h1><a href="#Up"><h4>Up</h4></a>    
 
 ## Technologies:
 <ul>
@@ -45,7 +45,7 @@ where: a,b,c are some constants, with a 0 (which ensures that the quadratic func
 Programme code written by A.Szklarski 01.2022r.
 
 
-<h1 align="center">**<a name="Task3">Sum and Average value</a>**<a href="#Up"><h4>Back to top of page</h4></a></h1>  
+<h1 align="center">**<a name="Task3">Sum and Average value</a>**</h1><a href="#Up"><h4>Up</h4></a>   
 
 ## Technologies:
 <ul>
