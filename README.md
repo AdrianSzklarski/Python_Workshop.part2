@@ -8,7 +8,7 @@
 
 <h1 align="center"><strong>Validate_of_PESEL</strong></h1>
 <h2 align="left">Purpose of the task:</h2>
-<p>As regards PESEL data, centrally available data has been migrated to the new system. In addition, copies of local databases were used to improve the quality of the central evidence register<p>
+<p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in . The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
 
 ## Technologies:
 <ul>
