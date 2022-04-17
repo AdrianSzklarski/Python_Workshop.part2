@@ -3,11 +3,12 @@
 <h2 align="left">Purpose of the task:</h2>
 <p>As regards PESEL data, centrally available data has been migrated to the new system. In addition, copies of local databases were used to improve the quality of the central evidence register<p>
 
-# Technologies: 
+# Technologies:
 <ul>
 <li><p>Python 3.9</p>
 <li><p>PyCharm</p>
 <li><p>Ubuntu</p>
+</ul>
 
 ## Use of the programme
 Validate_of_PESEL.py: <a href="https://pl.wikipedia.org/wiki/PESEL">Information about programm</a> 
