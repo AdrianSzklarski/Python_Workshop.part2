@@ -6,7 +6,7 @@
 </ol>
 
 <h2 align="center">Purpose of the task</h2>
-<p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in . The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
+<p>The primary purpose of the programs written in this catalogue is to learn programming in Python using the tools listed in. The content of the tasks was prepared by the CodersLab programming school. The authors have prepared different types of tasks, which are supposed to help in mastering this skill. These are tasks that practice programming skills from basic to advanced methods. The written assignments are written by myself and were consulted with the class group mentor.<p>
 
 
 <h1 align="center">**<a name="Task1">Validate of PESEL</a>**<a href="#Up"> Up </a></h1>  
@@ -35,7 +35,7 @@ Programme code written by A.Szklarski 02.2022r.
 </ul>
 
 ## Use of the programme:
-<p><p>Validate_of_PESEL: <a href="https://pl.wikipedia.org/wiki/Funkcja_kwadratowa">Quadratic function</a> - a polynomial function of second degree, that is of the form:
+<p>Quadrature equation: <a href="https://pl.wikipedia.org/wiki/Funkcja_kwadratowa">Quadratic function</a> - a polynomial function of second degree, that is of the form:
 
 f(x)=ax<sup>2</sup>+bx+c
 
