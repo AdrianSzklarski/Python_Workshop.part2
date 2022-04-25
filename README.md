@@ -1,8 +1,8 @@
 <h2 align="center"><a name="Up">Table of contents</a></h2> 
 <ol>
-<li><p><a href="#Task1">Validate of PESEL</a></p>   
-<li><p><a href="#Task2">Quadrature equation</a></p>     
-<li><p><a href="#Task3">Sum and Average value</a></p>  
+<li><p><a href="#Task1">Validate of PESEL</a></p></li>  
+<li><p><a href="#Task2">Quadrature equation</a></p></li>    
+<li><p><a href="#Task3">Sum and Average value</a></p></li>  
 </ol>
 
 <h2 align="center">Purpose of the task</h2>
