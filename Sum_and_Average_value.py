@@ -49,3 +49,4 @@ print(' ')
 print('List of elements: ', result)
 print('Sum of elements in the list:', sum(result))
 print('Average value of electives on the list:', sum(result) / n)
+
